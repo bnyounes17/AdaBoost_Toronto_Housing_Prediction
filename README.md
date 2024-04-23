@@ -1,4 +1,4 @@
-We study the housing in the surrounding of the Greater Toronto Area (GTA) by applying Boosting models  
+We study the housing in the surrounding of the Greater Toronto Area (GTA) by applying a boosting model.  
 
 The dataset used can be found on Kaggle in this link:  
 
